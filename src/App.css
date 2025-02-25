@@ -1,0 +1,60 @@
+#products {
+  padding: 40px 20px;
+  background-color: #f9f9f9;
+}
+
+.model-card {
+  background-color: #fff;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.model-card button {
+  background-color: #9c3a3a;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  cursor: pointer;
+}
+
+.model-card button:hover {
+  background-color: #8c3232;
+}
+
+#gpt2-section {
+  background-color: #fff;
+  padding: 30px;
+  margin-top: 40px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#gpt2-section textarea {
+  width: 100%;
+  height: 200px;
+  margin-bottom: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+#gpt2-section button {
+  background-color: #9c3a3a;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+#gpt2-section button:hover {
+  background-color: #8c3232;
+}
+
+#gpt2-section #gpt2-output {
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #f1f1f1;
+  border-radius: 8px;
+}
